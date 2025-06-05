@@ -6,7 +6,7 @@ basic:
         development: ''
     basicAuth:
         production: { user: '', password: '' }
-        staging: { user: flywheel, password: shocking-squirrel }
+        staging: { user: '', password: '' }
         development: { user: '', password: '' }
     breakpoints:
         - 640
